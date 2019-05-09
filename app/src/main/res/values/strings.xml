@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CameraXDemo</string>
+    <string name="toast_permission_failed">Permissions not granted by the user.</string>
 </resources>
